@@ -10,8 +10,8 @@
   <a href="mailto:TUA-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/TUO-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.reddit.com/user/Bl3nE/">
+    <img src="https://img.shields.io/reddit/user-karma/combined/bl3ne" />
   </a>
   <a href="https://instagram.com/dalex.mattia">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
