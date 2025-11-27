@@ -32,7 +32,12 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cciapg7ym7iuqm2rm557pwx4dm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
   </a>
 </p>
-  
+
+---
+
+## 🎵 Snake
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
