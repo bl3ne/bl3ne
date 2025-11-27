@@ -18,7 +18,7 @@
   <a href="https://instagram.com/dalex.mattia">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="TUO-PORTFOLIO">
+  <a href="https://magichairtrento.it">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
@@ -37,10 +37,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/IL-TUO-USERNAME/IL-TUO-USERNAME/blob/output/github-snake.svg" alt="Snake animation" />
-</p>
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <p align="center">
