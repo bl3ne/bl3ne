@@ -37,7 +37,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bl3ne/bl3ne/github-contribution-grid-snake.svg)
 ---
 
 <p align="center">
