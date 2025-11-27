@@ -33,12 +33,6 @@
   </a>
 </p>
   
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/bl3ne/bl3ne/github-contribution-grid-snake.svg)
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
