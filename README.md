@@ -42,29 +42,9 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bl3ne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl3ne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bl3ne&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
-
-### 💡 Quick Facts
-
-<details>
-  <summary><b>Click per scoprire di più su di me 👇</b></summary>
-  <br />
-  <ul>
-    <li>💻 Sviluppo applicazioni web e desktop (C#, Python, React).</li>
-    <li>⚙️ Gestisco progetti home-server e ambienti self-hosted.</li>
-    <li>🚀 Attualmente concentrato sul perfezionamento di nuove architetture software.</li>
-  </ul>
-</details>
 
 <!-- FOOTER BANNER -->
 <div align="center">
