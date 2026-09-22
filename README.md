@@ -54,19 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bl3ne&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
----
-
-### 🎵 Listening to Right Now
-
-<div align="center">
-  <!-- Sostituisci il link di Spotify con il tuo account o playlist pubblica se non usi un server Vercel dedicato -->
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-spotify-status.vercel.app/api/spotify" alt="Spotify Listening Status" onerror="this.src='https://img.shields.io/badge/Spotify-Offline%20%2F%20Non%20in%20riproduzione-1ED760?style=for-the-badge&logo=spotify&logoColor=white';" />
-  </a>
-</div>
-
----
-
 ### 💡 Quick Facts
 
 <details>
