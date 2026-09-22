@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:globe-24.svg?color=%2358a6ff" width="20" height="20" align="middle" /> Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:tuamail@example.com">
@@ -33,19 +33,15 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:tools-24.svg?color=%2358a6ff" width="20" height="20" align="middle" /> Languages & Tech Stack
+### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/XAML-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="XAML" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,nextjs,ts,js,html,css,tailwind,docker,raspberrypi" alt="Tech Stack" />
 </p>
 
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-24.svg?color=%2358a6ff" width="20" height="20" align="middle" /> GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bl3ne&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
